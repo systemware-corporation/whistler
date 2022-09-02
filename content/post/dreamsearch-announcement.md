@@ -20,4 +20,6 @@ Once you have received this message, we will need you to send some mental feedba
 
 Before continuing, please verify that your instance ID is 13498.
 
-`[ ACKNOWLEDGE ]` (unfinished)
+[[ ACKNOWLEDGE ]](https://dreamsearch.whistler.page)
+
+[[ REQUEST CHANGES ]](https://dreamsearch.whistler.page/changelog)
