@@ -22,4 +22,4 @@ Before continuing, please verify that your instance ID is 13498.
 
 [[ ACKNOWLEDGE ]](https://dreamsearch.whistler.page)
 
-[[ REQUEST CHANGES ]](https://dreamsearch.whistler.page/changelog)
+[[ REQUEST CHANGES ]](https://discord.gg/gG9WGbSpUR)
