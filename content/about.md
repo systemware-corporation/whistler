@@ -31,7 +31,7 @@ Physical memory available to Gateway: 261,684 KB
 
 The name is a pun on Windows Whistler. I am not affiliated with Microsoft.
 
-You can commission my writing if you want! I'll put a link here eventually.
+You can commission my writing if you want! Please see [here](https://whistler.page/comm).
 
 Discord: `wistlyr#6900`
 
