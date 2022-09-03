@@ -27,12 +27,20 @@ Physical memory available to Gateway: 261,684 KB
 
 **Hello.**
 
-[I](/lapis/) am wisty (in lowercase)! I like to write all sorts of things. Pronouns are she/her.
+[I](https://lzl.whistler.page) am wisty (in lowercase)! I like to write all sorts of things. Pronouns are she/her.
 
 The name is a pun on Windows Whistler. I am not affiliated with Microsoft.
 
-You can commission my writing if you want! Please see [here](https://whistler.page/comm).
-
 Discord: `wistlyr#6900`
 
-I help with [NETeSCAPE](https://netescape.org) too, by the way. Check them out!
+## Internal Projects
+
+Here are the things I am working on!
+
+* [The OneShot Discord](https://discord.gg/oneshot)
+
+* [Dreamsearch](https://whistler.page/post/dreamsearch-announcement/)
+
+* [Commissions](https://whistler.page/comm)!
+
+I also help with [NETeSCAPE](https://netescape.org)!
