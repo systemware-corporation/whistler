@@ -27,7 +27,7 @@ Physical memory available to Gateway: 261,684 KB
 
 **Hello.**
 
-[I](https://lzl.whistler.page) am wisty (in lowercase)! I like to write all sorts of things. Pronouns are she/her.
+I am wisty (in lowercase)! I like to write all sorts of things. Pronouns are she/her.
 
 The name is a pun on Windows Whistler. I am not affiliated with Microsoft.
 
