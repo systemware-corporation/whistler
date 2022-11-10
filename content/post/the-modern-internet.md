@@ -9,9 +9,9 @@ draft: false
 
 First instance of me using this site as a bit of a blog, yay. Why not use Twitter? Reddit? Literally anything else? Oh boy, strap in.
 
-## Accursed distraction...
-
 <!--more-->
+
+## Accursed distraction...
 
 See, I get distracted easily. ADHD? I don't know if I have that, but I do tend to jump from thing to thing. So, I don't exactly play nice with the modern Internet and the so-called "attention wars" going on right now. Every tech company wants your eyeballs on them. It generates revenue, so that's just business. I just don't like that it comes at the expense of people like me.
 
@@ -35,4 +35,6 @@ I'm slow, but I'm trying not to be.
 
 By the way, I don't have a comments section here, I don't know if I'll ever make one. If you know me on Discord, don't be afraid to talk to me. I'll put up an email address on this site eventually.
 
-- wistlyr (the one behind the SAI)
+*EDIT: 2022/11/10* Kicked out by myself. Ouch.
+
+- [Lapis](https://starrypoint.me) (the one behind the SAI)
