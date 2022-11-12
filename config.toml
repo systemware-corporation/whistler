@@ -82,13 +82,13 @@ enableEmoji = true
     identifier = "support "
     name = "SUPPORT"
     url = "/support/"       # The path can lead to a content folder too.
-    weight = 40
+    weight = 50
 
   [[menu.main]]
     identifier = "discord "
     name = "DISCORD"
     url = "https://discord.gg/gG9WGbSpUR"       # The path can lead to a content folder too.
-    weight = 50
+    weight = 60
 
 [taxonomies]
 category = "categories"
