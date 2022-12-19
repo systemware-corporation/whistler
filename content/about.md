@@ -6,7 +6,7 @@ aliases = ["wisty","contact"]
 +++
 
 {{< highlight html >}}
-Systemware (R) Gateway
+Systemware ( ) Gateway
 Version 5.1 (Build 2400.1.Lab01_N.001022-2228)
 Copyright (C) 1981-2000 Systemware Corp.
 Evaluation copy. Expires 4/23/2001 4:10 AM
@@ -24,16 +24,24 @@ Physical memory available to Gateway: 261,684 KB
 
 I am wisty (in lowercase)! I like to write all sorts of things. Pronouns are she/her.
 
-The name is a pun on Windows Whistler. I am not affiliated with Microsoft.
+The name is a pun on Windows Whistler. I am not affiliated with Microsoft, but I am affiliated with Systemware.
+
+## Where Am I?
+
+You can find me on the following platforms:
 
 Discord: `wistlyr#6900`
 
-## Internal Projects
+Fediverse: [@wistlyr@cdrom.tokyo](https://cdrom.tokyo/wistlyr)
 
-Here are the things I am working on!
+Innernet Mail: ###
 
-* [The OneShot Discord](https://discord.gg/oneshot)!
+Outernet Mail: ###
 
-* [Dreamsearch](https://whistler.page/post/dreamsearch-announcement/)!
+Twitter: [@wistlyr](https://twitter.com/wistlyr)
+
+## What do I do?
+
+You can see all of my works on my [Catalog](https://main.whistler.page/) page!
 
 I also help with [NETeSCAPE](https://netescape.org)!

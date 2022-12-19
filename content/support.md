@@ -14,7 +14,7 @@ To help reduce software piracy, please activate your copy of Gateway whenever yo
 Do you want to activate Gateway now?
 
 - [Yes, let's activate Gateway over the Internet now](https://ko-fi.com/wistlyr)
-- [Yes, I want to request the SAI to activate Gateway](/comm/)
+- Yes, I want to request the SAI to activate Gateway
 - [No, and don't remind me to activate Gateway](https://whistler.page)
 
 If you wait to activate, you can still use Gateway, but you won't receive access to beta builds.
@@ -26,16 +26,14 @@ Systemware is committed to your privacy. For more information, read the `Gateway
 To continue, read the following:
 
 {{< highlight html >}}
-Hello! To support Systemware and myself, please consider supporting or commissioning!
+Hello! To support Systemware and myself, please consider supporting!
 
 If you support me on Ko-fi, I can help give you some perks that'll enhance your experience with Gateway, such as:
 
-* Priority for commissions from those who have a monthly membership
-* Access to supporter channels on the Systemware Discord server
-* A chance to receive a free commission once a month
+* Access to supporter channels on the Systemware Community Outreach Discord server
 * The ability to see my works early, as well as see earlier versions of
 * Access to experimental one-off stories not posted elsewhere
 
 If any of this sounds good to you, please consider supporting me on Ko-fi with one of the membership tiers! 
-If committing to a monthly membership is a bit much, please consider getting a commission from me, if they're open! Thank you!
+If committing to a monthly membership is a bit much, please consider a one off donation! Thank you!
 {{< /highlight >}}
