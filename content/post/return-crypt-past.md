@@ -1,6 +1,8 @@
 ---
 title: "Returning from the Crypt of the Past..."
 description: "RCP, my beloved, my beloathed."
+categories: ["rcp"]
+tags: ["announcement"]
 date: 2022-11-10
 draft: false
 ---
