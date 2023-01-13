@@ -22,26 +22,10 @@ Physical memory available to Gateway: 261,684 KB
 
 **Hello!**
 
-I am `wisty`! I like to write all sorts of things. Pronouns are she/her.
+I am `wisty`! I like to write all sorts of things. My pronouns are she/her.
 
-The name is a pun on Windows Whistler. I am not affiliated with Microsoft, but I am affiliated with Systemware.
-
-## Where am I?
-
-You can find me on the following platforms:
-
-Discord: `wistlyr#6900`
-
-Fediverse: [@wistlyr@cdrom.tokyo](https://cdrom.tokyo/wistlyr)
-
-Innernet Mail: ###
-
-Outernet Mail: ###
-
-Twitter: [@wistlyr](https://twitter.com/wistlyr)
+I am not affiliated with Microsoft, but I am affiliated with Systemware.
 
 ## What do I do?
 
 You can see all of my works on my [Catalog](https://main.whistler.page/) page!
-
-I also help with [NETeSCAPE](https://netescape.org)!
