@@ -1,8 +1,6 @@
 ---
 title: "The Modern Internet"
 description: "Reddit suspended me twice for \"suspicious activity\". I couldn't be happier."
-categories: ["ooc"]
-tags: ["rant"]
 date: 2022-09-29T18:54:02-04:00
 draft: false
 ---

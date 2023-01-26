@@ -1,8 +1,8 @@
 ---
 title: "A Minor Update"
 description: "Not out of the dark just yet!"
-categories: ["ooc"]
-tags: ["announcement"]
+categories: ["systemware"]
+tags: ["update"]
 date: 2022-12-19
 draft: false
 ---
