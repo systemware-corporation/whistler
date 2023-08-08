@@ -75,7 +75,7 @@ enableEmoji = true
   [[menu.main]]
     identifier = "catalog "
     name = "CATALOG"
-    url = "https://main.whistler.page"       # The path can lead to a content folder too.
+    url = "https://main.sysware.plus"       # The path can lead to a content folder too.
     weight = 40
 
   [[menu.main]]
