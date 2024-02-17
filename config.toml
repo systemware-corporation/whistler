@@ -79,15 +79,15 @@ enableEmoji = true
     weight = 40
 
   [[menu.main]]
-    identifier = "support"
-    name = "SUPPORT"
-    url = "/support/"       # The path can lead to a content folder too.
+    identifier = "community"
+    name = "COMMUNITY"
+    url = "https://discord.gg/gG9WGbSpUR"       # The path can lead to a content folder too.
     weight = 50
 
   [[menu.main]]
-    identifier = "discord"
-    name = "DISCORD"
-    url = "https://discord.gg/gG9WGbSpUR"       # The path can lead to a content folder too.
+    identifier = "support"
+    name = "SUPPORT"
+    url = "/support/"       # The path can lead to a content folder too.
     weight = 60
 
 [taxonomies]

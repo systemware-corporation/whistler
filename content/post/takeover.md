@@ -3,7 +3,7 @@ title: "Important Notice: Preserved by the 0ccultist."
 description: "This is under new management, in a sense."
 categories: ["systemware"]
 tags: ["announcement"]
-date: 2024-02-17
+date: 2024-02-16
 draft: false
 ---
 
