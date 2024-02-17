@@ -1,5 +1,5 @@
 ---
-title: "NEW! USS 0.1.X now available!"
+title: "NEW! USS 0.0.X now available!"
 description: "One of the first new stories I could grab."
 categories: ["uss"]
 tags: ["announcement"]
