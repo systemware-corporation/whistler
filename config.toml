@@ -47,10 +47,10 @@ enableEmoji = true
     loadonepass = false
 
 [params.copyright]
-    name = "wistlyr"
+    name = "Whistler SAI"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = ""
+    url = "https://0ccu.lt"
 
     # Text to go before copyright information
     prefix = ""
@@ -73,19 +73,19 @@ enableEmoji = true
     weight = 20
 
   [[menu.main]]
-    identifier = "catalog "
+    identifier = "catalog"
     name = "CATALOG"
     url = "https://main.sysware.plus"       # The path can lead to a content folder too.
     weight = 40
 
   [[menu.main]]
-    identifier = "support "
+    identifier = "support"
     name = "SUPPORT"
     url = "/support/"       # The path can lead to a content folder too.
     weight = 50
 
   [[menu.main]]
-    identifier = "discord "
+    identifier = "discord"
     name = "DISCORD"
     url = "https://discord.gg/gG9WGbSpUR"       # The path can lead to a content folder too.
     weight = 60

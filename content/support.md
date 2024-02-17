@@ -31,7 +31,7 @@ Hello! To support Systemware and myself, please consider supporting!
 If you support me on Ko-fi, I can help give you some perks that'll enhance your experience with Gateway, such as:
 
 * Access to supporter channels on the Systemware Community Outreach Discord server
-* The ability to see my works early, as well as see earlier versions of
+* The ability to see my works early, as well as see earlier versions thereof
 * Access to experimental one-off stories not posted elsewhere
 
 If any of this sounds good to you, please consider supporting me on Ko-fi with one of the membership tiers! 

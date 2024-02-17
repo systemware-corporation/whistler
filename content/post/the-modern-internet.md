@@ -2,7 +2,7 @@
 title: "The Modern Internet"
 description: "Reddit suspended me twice for \"suspicious activity\". I couldn't be happier."
 date: 2022-09-29T18:54:02-04:00
-draft: false
+draft: true
 ---
 
 First instance of me using this site as a bit of a blog, yay. Why not use Twitter? Reddit? Literally anything else? Oh boy, strap in.
