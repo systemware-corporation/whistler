@@ -1,5 +1,5 @@
 ---
-title: "A Note from Whistler Sai"
+title: "A Note from Whistler SAI"
 description: "She wanted me to show you this."
 categories: ["bin"]
 tags: ["announcement"]
